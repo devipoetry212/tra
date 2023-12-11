@@ -1,0 +1,10 @@
+.navbar .container .navbar-brand {
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+    font-style: italic;
+}
+
+.navbar .container .navbar-brand span {
+    color: #775331;
+}
